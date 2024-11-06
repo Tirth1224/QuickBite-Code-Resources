@@ -1,0 +1,2274 @@
+[
+  {
+    "user": "User1",
+    "restaurantName": "Visnagar Delight",
+    "city": "Visnagar",
+    "country": "India",
+    "deliveryPrice": 150,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Indian", "Gujarati", "Punjabi", "Biryani", "Tandoori"],
+    "menuItems": [
+      {
+        "name": "Paneer Tikka",
+        "price": 320,
+        "_id": {
+          "$oid": "879d1aa0cb2bb18d49c9fe89"
+        }
+      },
+      {
+        "name": "Butter Chicken",
+        "price": 540,
+        "_id": {
+          "$oid": "1fbfd7a6d60f277cd446b3ee"
+        }
+      },
+      {
+        "name": "Biryani",
+        "price": 680,
+        "_id": {
+          "$oid": "f2edf1ff6bcad0fcf0ba60b6"
+        }
+      },
+      {
+        "name": "Dosa",
+        "price": 150,
+        "_id": {
+          "$oid": "49fb3fcbea0cdedbe252b2bf"
+        }
+      },
+      {
+        "name": "Gulab Jamun",
+        "price": 90,
+        "_id": {
+          "$oid": "cffecdfa4cad4b7ea5ecee24"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User2",
+    "restaurantName": "Gujarat Flavors",
+    "city": "Visnagar",
+    "country": "India",
+    "deliveryPrice": 120,
+    "estimatedDeliveryTime": 30,
+    "cuisines": ["Gujarati", "Indian", "Vegan"],
+    "menuItems": [
+      {
+        "name": "Khandvi",
+        "price": 200,
+        "_id": {
+          "$oid": "879d1aa0cb2bb18d49c9fe90"
+        }
+      },
+      {
+        "name": "Undhiyu",
+        "price": 400,
+        "_id": {
+          "$oid": "1fbfd7a6d60f277cd446b3ef"
+        }
+      },
+      {
+        "name": "Dhokla",
+        "price": 150,
+        "_id": {
+          "$oid": "f2edf1ff6bcad0fcf0ba60b7"
+        }
+      },
+      {
+        "name": "Puran Poli",
+        "price": 180,
+        "_id": {
+          "$oid": "49fb3fcbea0cdedbe252b2c0"
+        }
+      },
+      {
+        "name": "Jalebi",
+        "price": 70,
+        "_id": {
+          "$oid": "cffecdfa4cad4b7ea5ecee25"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User3",
+    "restaurantName": "Spice Junction",
+    "city": "Visnagar",
+    "country": "India",
+    "deliveryPrice": 100,
+    "estimatedDeliveryTime": 20,
+    "cuisines": ["Indian", "Punjabi", "Tandoori"],
+    "menuItems": [
+      {
+        "name": "Tandoori Chicken",
+        "price": 500,
+        "_id": {
+          "$oid": "879d1aa0cb2bb18d49c9fe91"
+        }
+      },
+      {
+        "name": "Dal Makhani",
+        "price": 260,
+        "_id": {
+          "$oid": "1fbfd7a6d60f277cd446b3f0"
+        }
+      },
+      {
+        "name": "Naan",
+        "price": 30,
+        "_id": {
+          "$oid": "f2edf1ff6bcad0fcf0ba60b8"
+        }
+      },
+      {
+        "name": "Raita",
+        "price": 50,
+        "_id": {
+          "$oid": "49fb3fcbea0cdedbe252b2c1"
+        }
+      },
+      {
+        "name": "Mango Lassi",
+        "price": 120,
+        "_id": {
+          "$oid": "cffecdfa4cad4b7ea5ecee26"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User4",
+    "restaurantName": "Taste of India",
+    "city": "Visnagar",
+    "country": "India",
+    "deliveryPrice": 140,
+    "estimatedDeliveryTime": 35,
+    "cuisines": ["Indian", "Punjabi", "South Indian"],
+    "menuItems": [
+      {
+        "name": "Samosa",
+        "price": 80,
+        "_id": {
+          "$oid": "879d1aa0cb2bb18d49c9fe92"
+        }
+      },
+      {
+        "name": "Idli",
+        "price": 120,
+        "_id": {
+          "$oid": "1fbfd7a6d60f277cd446b3f1"
+        }
+      },
+      {
+        "name": "Masala Dosa",
+        "price": 150,
+        "_id": {
+          "$oid": "f2edf1ff6bcad0fcf0ba60b9"
+        }
+      },
+      {
+        "name": "Chole Bhature",
+        "price": 240,
+        "_id": {
+          "$oid": "49fb3fcbea0cdedbe252b2c2"
+        }
+      },
+      {
+        "name": "Rasgulla",
+        "price": 60,
+        "_id": {
+          "$oid": "cffecdfa4cad4b7ea5ecee27"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User5",
+    "restaurantName": "Heavenly Bites",
+    "city": "Visnagar",
+    "country": "India",
+    "deliveryPrice": 130,
+    "estimatedDeliveryTime": 28,
+    "cuisines": ["Indian", "Gujarati", "Vegan"],
+    "menuItems": [
+      {
+        "name": "Bhindi Masala",
+        "price": 180,
+        "_id": {
+          "$oid": "879d1aa0cb2bb18d49c9fe93"
+        }
+      },
+      {
+        "name": "Vegetable Biryani",
+        "price": 320,
+        "_id": {
+          "$oid": "1fbfd7a6d60f277cd446b3f2"
+        }
+      },
+      {
+        "name": "Aloo Paratha",
+        "price": 150,
+        "_id": {
+          "$oid": "f2edf1ff6bcad0fcf0ba60ba"
+        }
+      },
+      {
+        "name": "Cucumber Raita",
+        "price": 50,
+        "_id": {
+          "$oid": "49fb3fcbea0cdedbe252b2c3"
+        }
+      },
+      {
+        "name": "Peda",
+        "price": 80,
+        "_id": {
+          "$oid": "cffecdfa4cad4b7ea5ecee28"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User6",
+    "restaurantName": "Flavor Fusion",
+    "city": "Visnagar",
+    "country": "India",
+    "deliveryPrice": 160,
+    "estimatedDeliveryTime": 40,
+    "cuisines": ["Indian", "Punjabi", "Gujarati", "South Indian"],
+    "menuItems": [
+      {
+        "name": "Dal Tadka",
+        "price": 220,
+        "_id": {
+          "$oid": "879d1aa0cb2bb18d49c9fe94"
+        }
+      },
+      {
+        "name": "Roti",
+        "price": 25,
+        "_id": {
+          "$oid": "1fbfd7a6d60f277cd446b3f3"
+        }
+      },
+      {
+        "name": "Chaat Papdi",
+        "price": 150,
+        "_id": {
+          "$oid": "f2edf1ff6bcad0fcf0ba60bb"
+        }
+      },
+      {
+        "name": "Pav Bhaji",
+        "price": 200,
+        "_id": {
+          "$oid": "49fb3fcbea0cdedbe252b2c4"
+        }
+      },
+      {
+        "name": "Ladoo",
+        "price": 70,
+        "_id": {
+          "$oid": "cffecdfa4cad4b7ea5ecee29"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User7",
+    "restaurantName": "Royal Taste",
+    "city": "Visnagar",
+    "country": "India",
+    "deliveryPrice": 110,
+    "estimatedDeliveryTime": 22,
+    "cuisines": ["Indian", "Punjabi", "Tandoori"],
+    "menuItems": [
+      {
+        "name": "Malai Kofta",
+        "price": 300,
+        "_id": {
+          "$oid": "879d1aa0cb2bb18d49c9fe95"
+        }
+      },
+      {
+        "name": "Egg Curry",
+        "price": 350,
+        "_id": {
+          "$oid": "1fbfd7a6d60f277cd446b3f4"
+        }
+      },
+      {
+        "name": "Seekh Kebab",
+        "price": 400,
+        "_id": {
+          "$oid": "f2edf1ff6bcad0fcf0ba60bc"
+        }
+      },
+      {
+        "name": "Kheer",
+        "price": 90,
+        "_id": {
+          "$oid": "49fb3fcbea0cdedbe252b2c5"
+        }
+      },
+      {
+        "name": "Chaas",
+        "price": 50,
+        "_id": {
+          "$oid": "cffecdfa4cad4b7ea5ecee30"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User8",
+    "restaurantName": "Delicious Tadka",
+    "city": "Visnagar",
+    "country": "India",
+    "deliveryPrice": 140,
+    "estimatedDeliveryTime": 27,
+    "cuisines": ["Indian", "Punjabi", "Vegan"],
+    "menuItems": [
+      {
+        "name": "Aloo Gobi",
+        "price": 200,
+        "_id": {
+          "$oid": "879d1aa0cb2bb18d49c9fe96"
+        }
+      },
+      {
+        "name": "Bhajiya",
+        "price": 100,
+        "_id": {
+          "$oid": "1fbfd7a6d60f277cd446b3f5"
+        }
+      },
+      {
+        "name": "Pani Puri",
+        "price": 80,
+        "_id": {
+          "$oid": "f2edf1ff6bcad0fcf0ba60bd"
+        }
+      },
+      {
+        "name": "Khichdi",
+        "price": 150,
+        "_id": {
+          "$oid": "49fb3fcbea0cdedbe252b2c6"
+        }
+      },
+      {
+        "name": "Barfi",
+        "price": 60,
+        "_id": {
+          "$oid": "cffecdfa4cad4b7ea5ecee31"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User9",
+    "restaurantName": "Taste Buds",
+    "city": "Visnagar",
+    "country": "India",
+    "deliveryPrice": 125,
+    "estimatedDeliveryTime": 33,
+    "cuisines": ["Indian", "Gujarati", "Chaat"],
+    "menuItems": [
+      {
+        "name": "Pav Bhaji",
+        "price": 220,
+        "_id": {
+          "$oid": "879d1aa0cb2bb18d49c9fe97"
+        }
+      },
+      {
+        "name": "Bhel Puri",
+        "price": 100,
+        "_id": {
+          "$oid": "1fbfd7a6d60f277cd446b3f6"
+        }
+      },
+      {
+        "name": "Kachori",
+        "price": 80,
+        "_id": {
+          "$oid": "f2edf1ff6bcad0fcf0ba60be"
+        }
+      },
+      {
+        "name": "Fruit Chaat",
+        "price": 150,
+        "_id": {
+          "$oid": "49fb3fcbea0cdedbe252b2c7"
+        }
+      },
+      {
+        "name": "Shahi Tukda",
+        "price": 90,
+        "_id": {
+          "$oid": "cffecdfa4cad4b7ea5ecee32"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User10",
+    "restaurantName": "Curry Leaf",
+    "city": "Visnagar",
+    "country": "India",
+    "deliveryPrice": 135,
+    "estimatedDeliveryTime": 30,
+    "cuisines": ["Indian", "South Indian", "Tandoori"],
+    "menuItems": [
+      {
+        "name": "Chicken Curry",
+        "price": 400,
+        "_id": {
+          "$oid": "879d1aa0cb2bb18d49c9fe98"
+        }
+      },
+      {
+        "name": "Fish Fry",
+        "price": 450,
+        "_id": {
+          "$oid": "1fbfd7a6d60f277cd446b3f7"
+        }
+      },
+      {
+        "name": "Pongal",
+        "price": 180,
+        "_id": {
+          "$oid": "f2edf1ff6bcad0fcf0ba60bf"
+        }
+      },
+      {
+        "name": "Rasam",
+        "price": 60,
+        "_id": {
+          "$oid": "49fb3fcbea0cdedbe252b2c8"
+        }
+      },
+      {
+        "name": "Mysore Pak",
+        "price": 100,
+        "_id": {
+          "$oid": "cffecdfa4cad4b7ea5ecee33"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User11",
+    "restaurantName": "Veggie Delight",
+    "city": "Visnagar",
+    "country": "India",
+    "deliveryPrice": 100,
+    "estimatedDeliveryTime": 20,
+    "cuisines": ["Indian", "Gujarati", "Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Paneer Tikka",
+        "price": 250,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345678"
+        }
+      },
+      {
+        "name": "Dal Makhani",
+        "price": 180,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345679"
+        }
+      },
+      {
+        "name": "Veg Biryani",
+        "price": 220,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345680"
+        }
+      },
+      {
+        "name": "Ras Malai",
+        "price": 120,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345681"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User12",
+    "restaurantName": "Sweet & Spicy",
+    "city": "Visnagar",
+    "country": "India",
+    "deliveryPrice": 90,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Indian", "Dessert", "Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Gulab Jamun",
+        "price": 80,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345682"
+        }
+      },
+      {
+        "name": "Jalebi",
+        "price": 70,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345683"
+        }
+      },
+      {
+        "name": "Sooji Halwa",
+        "price": 90,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345684"
+        }
+      },
+      {
+        "name": "Fruit Custard",
+        "price": 100,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345685"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User13",
+    "restaurantName": "Healthy Treats",
+    "city": "Visnagar",
+    "country": "India",
+    "deliveryPrice": 110,
+    "estimatedDeliveryTime": 30,
+    "cuisines": ["Indian", "Vegan", "Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Quinoa Salad",
+        "price": 200,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345686"
+        }
+      },
+      {
+        "name": "Vegetable Stir Fry",
+        "price": 180,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345687"
+        }
+      },
+      {
+        "name": "Fruit Bowl",
+        "price": 150,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345688"
+        }
+      },
+      {
+        "name": "Chia Pudding",
+        "price": 170,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345689"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User14",
+    "restaurantName": "Green Leaf",
+    "city": "Visnagar",
+    "country": "India",
+    "deliveryPrice": 95,
+    "estimatedDeliveryTime": 22,
+    "cuisines": ["Indian", "Healthy", "Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Mixed Vegetable Curry",
+        "price": 200,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345690"
+        }
+      },
+      {
+        "name": "Roti Basket",
+        "price": 100,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345691"
+        }
+      },
+      {
+        "name": "Masala Dosa",
+        "price": 150,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345692"
+        }
+      },
+      {
+        "name": "Kheer",
+        "price": 130,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345693"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User15",
+    "restaurantName": "Dessert Paradise",
+    "city": "Visnagar",
+    "country": "India",
+    "deliveryPrice": 120,
+    "estimatedDeliveryTime": 35,
+    "cuisines": ["Dessert", "Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Chocolate Mousse",
+        "price": 150,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345694"
+        }
+      },
+      {
+        "name": "Pineapple Pastry",
+        "price": 180,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345695"
+        }
+      },
+      {
+        "name": "Carrot Halwa",
+        "price": 130,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345696"
+        }
+      },
+      {
+        "name": "Mango Lassi",
+        "price": 90,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345697"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User16",
+    "restaurantName": "The Green Table",
+    "city": "Visnagar",
+    "country": "India",
+    "deliveryPrice": 105,
+    "estimatedDeliveryTime": 28,
+    "cuisines": ["Indian", "Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Palak Paneer",
+        "price": 220,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345698"
+        }
+      },
+      {
+        "name": "Aloo Gobi",
+        "price": 190,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345699"
+        }
+      },
+      {
+        "name": "Dhokla",
+        "price": 120,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345700"
+        }
+      },
+      {
+        "name": "Rabri",
+        "price": 110,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345701"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User17",
+    "restaurantName": "Tasty Treats",
+    "city": "Visnagar",
+    "country": "India",
+    "deliveryPrice": 80,
+    "estimatedDeliveryTime": 15,
+    "cuisines": ["Indian", "Dessert", "Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Chocolate Cake",
+        "price": 200,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345702"
+        }
+      },
+      {
+        "name": "Ice Cream Sundae",
+        "price": 160,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345703"
+        }
+      },
+      {
+        "name": "Biscuit Pudding",
+        "price": 140,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345704"
+        }
+      },
+      {
+        "name": "Lemon Tart",
+        "price": 130,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345705"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User18",
+    "restaurantName": "Mehsana Veg Delights",
+    "city": "Mehsana",
+    "country": "India",
+    "deliveryPrice": 100,
+    "estimatedDeliveryTime": 20,
+    "cuisines": ["Indian", "Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Paneer Butter Masala",
+        "price": 250,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345706"
+        }
+      },
+      {
+        "name": "Bhindi Masala",
+        "price": 180,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345707"
+        }
+      },
+      {
+        "name": "Veg Pulao",
+        "price": 220,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345708"
+        }
+      },
+      {
+        "name": "Gajar Halwa",
+        "price": 120,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345709"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User19",
+    "restaurantName": "Sweets & Snacks Corner",
+    "city": "Mehsana",
+    "country": "India",
+    "deliveryPrice": 90,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Indian", "Dessert", "Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Ras Malai",
+        "price": 80,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345710"
+        }
+      },
+      {
+        "name": "Kachori",
+        "price": 70,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345711"
+        }
+      },
+      {
+        "name": "Barfi",
+        "price": 90,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345712"
+        }
+      },
+      {
+        "name": "Chandrakala",
+        "price": 100,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345713"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User20",
+    "restaurantName": "Green Veggie Hub",
+    "city": "Mehsana",
+    "country": "India",
+    "deliveryPrice": 110,
+    "estimatedDeliveryTime": 30,
+    "cuisines": ["Indian", "Vegan", "Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Quinoa Salad",
+        "price": 200,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345714"
+        }
+      },
+      {
+        "name": "Vegetable Soup",
+        "price": 180,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345715"
+        }
+      },
+      {
+        "name": "Fruit Salad",
+        "price": 150,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345716"
+        }
+      },
+      {
+        "name": "Chia Seed Pudding",
+        "price": 170,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345717"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User21",
+    "restaurantName": "Taste of Tradition",
+    "city": "Mehsana",
+    "country": "India",
+    "deliveryPrice": 95,
+    "estimatedDeliveryTime": 22,
+    "cuisines": ["Indian", "Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Dal Tadka",
+        "price": 200,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345718"
+        }
+      },
+      {
+        "name": "Jeera Rice",
+        "price": 100,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345719"
+        }
+      },
+      {
+        "name": "Masala Dosa",
+        "price": 150,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345720"
+        }
+      },
+      {
+        "name": "Kheer",
+        "price": 130,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345721"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User22",
+    "restaurantName": "Dessert Dreams",
+    "city": "Mehsana",
+    "country": "India",
+    "deliveryPrice": 120,
+    "estimatedDeliveryTime": 35,
+    "cuisines": ["Dessert", "Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Chocolate Lava Cake",
+        "price": 150,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345722"
+        }
+      },
+      {
+        "name": "Pistachio Baklava",
+        "price": 180,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345723"
+        }
+      },
+      {
+        "name": "Kesar Pista Kulfi",
+        "price": 130,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345724"
+        }
+      },
+      {
+        "name": "Fruit Tart",
+        "price": 90,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345725"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User23",
+    "restaurantName": "Vegan Vibes",
+    "city": "Mehsana",
+    "country": "India",
+    "deliveryPrice": 105,
+    "estimatedDeliveryTime": 28,
+    "cuisines": ["Indian", "Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Palak Chole",
+        "price": 220,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345726"
+        }
+      },
+      {
+        "name": "Aloo Tikki",
+        "price": 190,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345727"
+        }
+      },
+      {
+        "name": "Dhokla",
+        "price": 120,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345728"
+        }
+      },
+      {
+        "name": "Rabdi",
+        "price": 110,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345729"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User24",
+    "restaurantName": "Sweet Tooth",
+    "city": "Mehsana",
+    "country": "India",
+    "deliveryPrice": 80,
+    "estimatedDeliveryTime": 15,
+    "cuisines": ["Indian", "Dessert", "Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Vanilla Ice Cream",
+        "price": 200,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345730"
+        }
+      },
+      {
+        "name": "Chocolate Mousse",
+        "price": 250,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345731"
+        }
+      },
+      {
+        "name": "Pineapple Upside Down Cake",
+        "price": 300,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345732"
+        }
+      },
+      {
+        "name": "Gulab Jamun",
+        "price": 120,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345733"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User25",
+    "restaurantName": "Healthy Bites",
+    "city": "Mehsana",
+    "country": "India",
+    "deliveryPrice": 75,
+    "estimatedDeliveryTime": 18,
+    "cuisines": ["Indian", "Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Sprout Salad",
+        "price": 130,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345734"
+        }
+      },
+      {
+        "name": "Stuffed Capsicum",
+        "price": 200,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345735"
+        }
+      },
+      {
+        "name": "Dahi Puri",
+        "price": 150,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345736"
+        }
+      },
+      {
+        "name": "Mango Pudding",
+        "price": 140,
+        "_id": {
+          "$oid": "a1b2c3d4e5f6789012345737"
+        }
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+
+  {
+    "user": "User26",
+    "restaurantName": "The Spice Route",
+    "city": "Mehsana",
+    "country": "India",
+    "deliveryPrice": 25,
+    "estimatedDeliveryTime": 30,
+    "cuisines": ["Indian", "Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Vegetable Biryani",
+        "price": 150,
+        "_id": "5f9e3b3e8b1d6c001b8c7e0a"
+      },
+      {
+        "name": "Paneer Butter Masala",
+        "price": 280,
+        "_id": "5f9e3b3e8b1d6c001b8c7e0b"
+      },
+      {
+        "name": "Garlic Naan",
+        "price": 50,
+        "_id": "5f9e3b3e8b1d6c001b8c7e0c"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User27",
+    "restaurantName": "Mehsana Bites",
+    "city": "Mehsana",
+    "country": "India",
+    "deliveryPrice": 30,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Fast Food", "Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Veg Burger",
+        "price": 80,
+        "_id": "5f9e3b3e8b1d6c001b8c7e0d"
+      },
+      {
+        "name": "French Fries",
+        "price": 50,
+        "_id": "5f9e3b3e8b1d6c001b8c7e0e"
+      },
+      {
+        "name": "Paneer Tikka",
+        "price": 150,
+        "_id": "5f9e3b3e8b1d6c001b8c7e0f"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User28",
+    "restaurantName": "Chaat Corner",
+    "city": "Mehsana",
+    "country": "India",
+    "deliveryPrice": 20,
+    "estimatedDeliveryTime": 15,
+    "cuisines": ["Indian", "Street Food"],
+    "menuItems": [
+      {
+        "name": "Pani Puri",
+        "price": 60,
+        "_id": "5f9e3b3e8b1d6c001b8c7e10"
+      },
+      {
+        "name": "Bhel Puri",
+        "price": 50,
+        "_id": "5f9e3b3e8b1d6c001b8c7e11"
+      },
+      {
+        "name": "Dahi Puri",
+        "price": 70,
+        "_id": "5f9e3b3e8b1d6c001b8c7e12"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User29",
+    "restaurantName": "Cafe Coffee Day",
+    "city": "Gandhinagar",
+    "country": "India",
+    "deliveryPrice": 15,
+    "estimatedDeliveryTime": 10,
+    "cuisines": ["Cafe", "Fast Food"],
+    "menuItems": [
+      {
+        "name": "Cappuccino",
+        "price": 120,
+        "_id": "5f9e3b3e8b1d6c001b8c7e13"
+      },
+      {
+        "name": "Cheese Sandwich",
+        "price": 90,
+        "_id": "5f9e3b3e8b1d6c001b8c7e14"
+      },
+      {
+        "name": "Chocolate Pastry",
+        "price": 70,
+        "_id": "5f9e3b3e8b1d6c001b8c7e15"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User30",
+    "restaurantName": "The Great Indian Dhaba",
+    "city": "Gandhinagar",
+    "country": "India",
+    "deliveryPrice": 30,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Indian", "Non-Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Butter Chicken",
+        "price": 350,
+        "_id": "5f9e3b3e8b1d6c001b8c7e16"
+      },
+      {
+        "name": "Roti",
+        "price": 20,
+        "_id": "5f9e3b3e8b1d6c001b8c7e17"
+      },
+      {
+        "name": "Dal Makhani",
+        "price": 200,
+        "_id": "5f9e3b3e8b1d6c001b8c7e18"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User31",
+    "restaurantName": "Veggie Paradise",
+    "city": "Gandhinagar",
+    "country": "India",
+    "deliveryPrice": 20,
+    "estimatedDeliveryTime": 15,
+    "cuisines": ["Vegetarian", "Indian"],
+    "menuItems": [
+      {
+        "name": "Paneer Butter Masala",
+        "price": 250,
+        "_id": "5f9e3b3e8b1d6c001b8c7e19"
+      },
+      {
+        "name": "Mixed Veg Curry",
+        "price": 200,
+        "_id": "5f9e3b3e8b1d6c001b8c7e1a"
+      },
+      {
+        "name": "Naan",
+        "price": 30,
+        "_id": "5f9e3b3e8b1d6c001b8c7e1b"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User32",
+    "restaurantName": "Dine Divine",
+    "city": "Unjha",
+    "country": "India",
+    "deliveryPrice": 25,
+    "estimatedDeliveryTime": 20,
+    "cuisines": ["Indian", "Continental"],
+    "menuItems": [
+      {
+        "name": "Paneer Tikka",
+        "price": 200,
+        "_id": "5f9e3b3e8b1d6c001b8c7e1c"
+      },
+      {
+        "name": "Veg Biryani",
+        "price": 220,
+        "_id": "5f9e3b3e8b1d6c001b8c7e1d"
+      },
+      {
+        "name": "Cheese Naan",
+        "price": 80,
+        "_id": "5f9e3b3e8b1d6c001b8c7e1e"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User33",
+    "restaurantName": "Unjha Kitchen",
+    "city": "Unjha",
+    "country": "India",
+    "deliveryPrice": 30,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Indian", "Chinese"],
+    "menuItems": [
+      {
+        "name": "Chili Paneer",
+        "price": 250,
+        "_id": "5f9e3b3e8b1d6c001b8c7e1f"
+      },
+      {
+        "name": "Veg Fried Rice",
+        "price": 180,
+        "_id": "5f9e3b3e8b1d6c001b8c7e20"
+      },
+      {
+        "name": "Spring Rolls",
+        "price": 100,
+        "_id": "5f9e3b3e8b1d6c001b8c7e21"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User34",
+    "restaurantName": "The Unjha Tandoor",
+    "city": "Unjha",
+    "country": "India",
+    "deliveryPrice": 35,
+    "estimatedDeliveryTime": 30,
+    "cuisines": ["Indian", "Barbeque"],
+    "menuItems": [
+      {
+        "name": "Tandoori Chicken",
+        "price": 350,
+        "_id": "5f9e3b3e8b1d6c001b8c7e22"
+      },
+      {
+        "name": "Veg Seekh Kebab",
+        "price": 200,
+        "_id": "5f9e3b3e8b1d6c001b8c7e23"
+      },
+      {
+        "name": "Naan",
+        "price": 30,
+        "_id": "5f9e3b3e8b1d6c001b8c7e24"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User35",
+    "restaurantName": "Palanpur Palace",
+    "city": "Palanpur",
+    "country": "India",
+    "deliveryPrice": 25,
+    "estimatedDeliveryTime": 20,
+    "cuisines": ["Indian", "Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Dal Tadka",
+        "price": 180,
+        "_id": "5f9e3b3e8b1d6c001b8c7e25"
+      },
+      {
+        "name": "Jeera Rice",
+        "price": 90,
+        "_id": "5f9e3b3e8b1d6c001b8c7e26"
+      },
+      {
+        "name": "Paneer Tikka",
+        "price": 250,
+        "_id": "5f9e3b3e8b1d6c001b8c7e27"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User36",
+    "restaurantName": "Royal Palanpur",
+    "city": "Palanpur",
+    "country": "India",
+    "deliveryPrice": 30,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Indian", "Non-Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Chicken Biryani",
+        "price": 300,
+        "_id": "5f9e3b3e8b1d6c001b8c7e28"
+      },
+      {
+        "name": "Mutton Rogan Josh",
+        "price": 450,
+        "_id": "5f9e3b3e8b1d6c001b8c7e29"
+      },
+      {
+        "name": "Roti",
+        "price": 20,
+        "_id": "5f9e3b3e8b1d6c001b8c7e2a"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User37",
+    "restaurantName": "Ganpat University Mess",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 20,
+    "estimatedDeliveryTime": 15,
+    "cuisines": ["Indian", "Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Khichdi",
+        "price": 80,
+        "_id": "5f9e3b3e8b1d6c001b8c7e2b"
+      },
+      {
+        "name": "Vegetable Curry",
+        "price": 100,
+        "_id": "5f9e3b3e8b1d6c001b8c7e2c"
+      },
+      {
+        "name": "Rice",
+        "price": 40,
+        "_id": "5f9e3b3e8b1d6c001b8c7e2d"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User38",
+    "restaurantName": "Campus Cafe",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 15,
+    "estimatedDeliveryTime": 10,
+    "cuisines": ["Cafe", "Fast Food"],
+    "menuItems": [
+      {
+        "name": "Veg Sandwich",
+        "price": 70,
+        "_id": "5f9e3b3e8b1d6c001b8c7e2e"
+      },
+      {
+        "name": "French Fries",
+        "price": 50,
+        "_id": "5f9e3b3e8b1d6c001b8c7e2f"
+      },
+      {
+        "name": "Cappuccino",
+        "price": 120,
+        "_id": "5f9e3b3e8b1d6c001b8c7e30"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User39",
+    "restaurantName": "Food Court",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 10,
+    "estimatedDeliveryTime": 5,
+    "cuisines": ["Indian", "Continental"],
+    "menuItems": [
+      {
+        "name": "Pasta",
+        "price": 150,
+        "_id": "5f9e3b3e8b1d6c001b8c7e31"
+      },
+      {
+        "name": "Pizza",
+        "price": 250,
+        "_id": "5f9e3b3e8b1d6c001b8c7e32"
+      },
+      {
+        "name": "Salad",
+        "price": 80,
+        "_id": "5f9e3b3e8b1d6c001b8c7e33"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User40",
+    "restaurantName": "Tandoor Express",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 30,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Indian", "Non-Vegetarian"],
+    "menuItems": [
+      {
+        "name": "Tandoori Chicken",
+        "price": 300,
+        "_id": "5f9e3b3e8b1d6c001b8c7e34"
+      },
+      {
+        "name": "Mutton Seekh Kebab",
+        "price": 350,
+        "_id": "5f9e3b3e8b1d6c001b8c7e35"
+      },
+      {
+        "name": "Naan",
+        "price": 50,
+        "_id": "5f9e3b3e8b1d6c001b8c7e36"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User41",
+    "restaurantName": "Delight Bites",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 25,
+    "estimatedDeliveryTime": 20,
+    "cuisines": ["Fast Food", "Indian"],
+    "menuItems": [
+      {
+        "name": "Cheese Burger",
+        "price": 150,
+        "_id": "5f9e3b3e8b1d6c001b8c7e37"
+      },
+      {
+        "name": "Paneer Tikka Wrap",
+        "price": 200,
+        "_id": "5f9e3b3e8b1d6c001b8c7e38"
+      },
+      {
+        "name": "Crispy Fries",
+        "price": 70,
+        "_id": "5f9e3b3e8b1d6c001b8c7e39"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User42",
+    "restaurantName": "Sweet Cravings",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 15,
+    "estimatedDeliveryTime": 12,
+    "cuisines": ["Desserts", "Bakery"],
+    "menuItems": [
+      {
+        "name": "Chocolate Cake",
+        "price": 250,
+        "_id": "5f9e3b3e8b1d6c001b8c7e3a"
+      },
+      {
+        "name": "Pineapple Pastry",
+        "price": 120,
+        "_id": "5f9e3b3e8b1d6c001b8c7e3b"
+      },
+      {
+        "name": "Brownie Sundae",
+        "price": 180,
+        "_id": "5f9e3b3e8b1d6c001b8c7e3c"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User43",
+    "restaurantName": "Spicy Affair",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 30,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Indian", "Spicy"],
+    "menuItems": [
+      {
+        "name": "Paneer Butter Masala",
+        "price": 220,
+        "_id": "5f9e3b3e8b1d6c001b8c7e3d"
+      },
+      {
+        "name": "Spicy Biryani",
+        "price": 300,
+        "_id": "5f9e3b3e8b1d6c001b8c7e3e"
+      },
+      {
+        "name": "Mixed Raita",
+        "price": 50,
+        "_id": "5f9e3b3e8b1d6c001b8c7e3f"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User44",
+    "restaurantName": "Tasty Treats",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 20,
+    "estimatedDeliveryTime": 18,
+    "cuisines": ["Fast Food", "Indian"],
+    "menuItems": [
+      {
+        "name": "Chicken Burger",
+        "price": 160,
+        "_id": "5f9e3b3e8b1d6c001b8c7e40"
+      },
+      {
+        "name": "Veg Pizza",
+        "price": 220,
+        "_id": "5f9e3b3e8b1d6c001b8c7e41"
+      },
+      {
+        "name": "Garlic Bread",
+        "price": 80,
+        "_id": "5f9e3b3e8b1d6c001b8c7e42"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User45",
+    "restaurantName": "Urban Eatery",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 15,
+    "estimatedDeliveryTime": 10,
+    "cuisines": ["Indian", "Continental"],
+    "menuItems": [
+      {
+        "name": "Pasta Alfredo",
+        "price": 210,
+        "_id": "5f9e3b3e8b1d6c001b8c7e43"
+      },
+      {
+        "name": "Paneer Quesadilla",
+        "price": 180,
+        "_id": "5f9e3b3e8b1d6c001b8c7e44"
+      },
+      {
+        "name": "Ice Cream",
+        "price": 100,
+        "_id": "5f9e3b3e8b1d6c001b8c7e45"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User46",
+    "restaurantName": "Nibbles and Bites",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 25,
+    "estimatedDeliveryTime": 22,
+    "cuisines": ["Cafe", "Bakery"],
+    "menuItems": [
+      {
+        "name": "Cheese Croissant",
+        "price": 120,
+        "_id": "5f9e3b3e8b1d6c001b8c7e46"
+      },
+      {
+        "name": "Fruit Tart",
+        "price": 150,
+        "_id": "5f9e3b3e8b1d6c001b8c7e47"
+      },
+      {
+        "name": "Espresso",
+        "price": 90,
+        "_id": "5f9e3b3e8b1d6c001b8c7e48"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User47",
+    "restaurantName": "Royal Treats",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 30,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Indian", "Multi-Cuisine"],
+    "menuItems": [
+      {
+        "name": "Tandoori Fish",
+        "price": 400,
+        "_id": "5f9e3b3e8b1d6c001b8c7e49"
+      },
+      {
+        "name": "Methi Chicken",
+        "price": 350,
+        "_id": "5f9e3b3e8b1d6c001b8c7e4a"
+      },
+      {
+        "name": "Roti",
+        "price": 20,
+        "_id": "5f9e3b3e8b1d6c001b8c7e4b"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User48",
+    "restaurantName": "Global Flavors",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 20,
+    "estimatedDeliveryTime": 15,
+    "cuisines": ["Italian", "Indian"],
+    "menuItems": [
+      {
+        "name": "Spaghetti Bolognese",
+        "price": 250,
+        "_id": "5f9e3b3e8b1d6c001b8c7e4c"
+      },
+      {
+        "name": "Chole Bhature",
+        "price": 200,
+        "_id": "5f9e3b3e8b1d6c001b8c7e4d"
+      },
+      {
+        "name": "Garlic Bread",
+        "price": 80,
+        "_id": "5f9e3b3e8b1d6c001b8c7e4e"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User49",
+    "restaurantName": "Savor Station",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 25,
+    "estimatedDeliveryTime": 20,
+    "cuisines": ["Asian", "Indian"],
+    "menuItems": [
+      {
+        "name": "Veg Sushi",
+        "price": 300,
+        "_id": "5f9e3b3e8b1d6c001b8c7e4f"
+      },
+      {
+        "name": "Thai Curry",
+        "price": 400,
+        "_id": "5f9e3b3e8b1d6c001b8c7e50"
+      },
+      {
+        "name": "Fried Rice",
+        "price": 150,
+        "_id": "5f9e3b3e8b1d6c001b8c7e51"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User50",
+    "restaurantName": "Flavor Fiesta",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 35,
+    "estimatedDeliveryTime": 30,
+    "cuisines": ["Mexican", "Indian"],
+    "menuItems": [
+      {
+        "name": "Tacos",
+        "price": 200,
+        "_id": "5f9e3b3e8b1d6c001b8c7e52"
+      },
+      {
+        "name": "Nachos",
+        "price": 180,
+        "_id": "5f9e3b3e8b1d6c001b8c7e53"
+      },
+      {
+        "name": "Churros",
+        "price": 150,
+        "_id": "5f9e3b3e8b1d6c001b8c7e54"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User51",
+    "restaurantName": "Gourmet Paradise",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 20,
+    "estimatedDeliveryTime": 15,
+    "cuisines": ["Italian", "Continental"],
+    "menuItems": [
+      {
+        "name": "Lasagna",
+        "price": 300,
+        "_id": "5f9e3b3e8b1d6c001b8c7e55"
+      },
+      {
+        "name": "Margarita Pizza",
+        "price": 280,
+        "_id": "5f9e3b3e8b1d6c001b8c7e56"
+      },
+      {
+        "name": "Caesar Salad",
+        "price": 150,
+        "_id": "5f9e3b3e8b1d6c001b8c7e57"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User52",
+    "restaurantName": "Kebab Junction",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 25,
+    "estimatedDeliveryTime": 20,
+    "cuisines": ["Indian", "Barbecue"],
+    "menuItems": [
+      {
+        "name": "Chicken Kebab",
+        "price": 250,
+        "_id": "5f9e3b3e8b1d6c001b8c7e58"
+      },
+      {
+        "name": "Seekh Kebab",
+        "price": 300,
+        "_id": "5f9e3b3e8b1d6c001b8c7e59"
+      },
+      {
+        "name": "Mint Chutney",
+        "price": 30,
+        "_id": "5f9e3b3e8b1d6c001b8c7e5a"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User53",
+    "restaurantName": "Sushi Haven",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 30,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Japanese", "Sushi"],
+    "menuItems": [
+      {
+        "name": "California Roll",
+        "price": 280,
+        "_id": "5f9e3b3e8b1d6c001b8c7e5b"
+      },
+      {
+        "name": "Veg Sushi Platter",
+        "price": 320,
+        "_id": "5f9e3b3e8b1d6c001b8c7e5c"
+      },
+      {
+        "name": "Miso Soup",
+        "price": 100,
+        "_id": "5f9e3b3e8b1d6c001b8c7e5d"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User54",
+    "restaurantName": "Ocean's Catch",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 40,
+    "estimatedDeliveryTime": 35,
+    "cuisines": ["Seafood", "Indian"],
+    "menuItems": [
+      {
+        "name": "Grilled Salmon",
+        "price": 500,
+        "_id": "5f9e3b3e8b1d6c001b8c7e5e"
+      },
+      {
+        "name": "Fish Curry",
+        "price": 350,
+        "_id": "5f9e3b3e8b1d6c001b8c7e5f"
+      },
+      {
+        "name": "Prawn Masala",
+        "price": 400,
+        "_id": "5f9e3b3e8b1d6c001b8c7e60"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User55",
+    "restaurantName": "The Healthy Bowl",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 20,
+    "estimatedDeliveryTime": 15,
+    "cuisines": ["Healthy", "Salads"],
+    "menuItems": [
+      {
+        "name": "Quinoa Salad",
+        "price": 250,
+        "_id": "5f9e3b3e8b1d6c001b8c7e61"
+      },
+      {
+        "name": "Smoothie Bowl",
+        "price": 300,
+        "_id": "5f9e3b3e8b1d6c001b8c7e62"
+      },
+      {
+        "name": "Fruit Salad",
+        "price": 150,
+        "_id": "5f9e3b3e8b1d6c001b8c7e63"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User56",
+    "restaurantName": "Choco Delights",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 15,
+    "estimatedDeliveryTime": 10,
+    "cuisines": ["Desserts", "Bakery"],
+    "menuItems": [
+      {
+        "name": "Chocolate Mousse",
+        "price": 200,
+        "_id": "5f9e3b3e8b1d6c001b8c7e64"
+      },
+      {
+        "name": "Red Velvet Cake",
+        "price": 250,
+        "_id": "5f9e3b3e8b1d6c001b8c7e65"
+      },
+      {
+        "name": "Brownies",
+        "price": 150,
+        "_id": "5f9e3b3e8b1d6c001b8c7e66"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User57",
+    "restaurantName": "Grill House",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 25,
+    "estimatedDeliveryTime": 20,
+    "cuisines": ["Grilled", "Barbecue"],
+    "menuItems": [
+      {
+        "name": "Grilled Chicken",
+        "price": 350,
+        "_id": "5f9e3b3e8b1d6c001b8c7e67"
+      },
+      {
+        "name": "BBQ Ribs",
+        "price": 400,
+        "_id": "5f9e3b3e8b1d6c001b8c7e68"
+      },
+      {
+        "name": "Veggie Skewers",
+        "price": 200,
+        "_id": "5f9e3b3e8b1d6c001b8c7e69"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User58",
+    "restaurantName": "Curry House",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 30,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Indian", "Curry"],
+    "menuItems": [
+      {
+        "name": "Butter Chicken",
+        "price": 400,
+        "_id": "5f9e3b3e8b1d6c001b8c7e6a"
+      },
+      {
+        "name": "Paneer Tikka",
+        "price": 250,
+        "_id": "5f9e3b3e8b1d6c001b8c7e6b"
+      },
+      {
+        "name": "Dal Makhani",
+        "price": 200,
+        "_id": "5f9e3b3e8b1d6c001b8c7e6c"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User59",
+    "restaurantName": "Pasta Palace",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 20,
+    "estimatedDeliveryTime": 15,
+    "cuisines": ["Italian", "Pasta"],
+    "menuItems": [
+      {
+        "name": "Spaghetti Bolognese",
+        "price": 300,
+        "_id": "5f9e3b3e8b1d6c001b8c7e6d"
+      },
+      {
+        "name": "Penne Arrabbiata",
+        "price": 280,
+        "_id": "5f9e3b3e8b1d6c001b8c7e6e"
+      },
+      {
+        "name": "Fettuccine Alfredo",
+        "price": 320,
+        "_id": "5f9e3b3e8b1d6c001b8c7e6f"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User60",
+    "restaurantName": "Burger Hut",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 25,
+    "estimatedDeliveryTime": 20,
+    "cuisines": ["Fast Food", "Burgers"],
+    "menuItems": [
+      {
+        "name": "Cheeseburger",
+        "price": 300,
+        "_id": "5f9e3b3e8b1d6c001b8c7e70"
+      },
+      {
+        "name": "Veggie Burger",
+        "price": 250,
+        "_id": "5f9e3b3e8b1d6c001b8c7e71"
+      },
+      {
+        "name": "Fries",
+        "price": 100,
+        "_id": "5f9e3b3e8b1d6c001b8c7e72"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User61",
+    "restaurantName": "Tea & Treats",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 15,
+    "estimatedDeliveryTime": 10,
+    "cuisines": ["Snacks", "Tea"],
+    "menuItems": [
+      {
+        "name": "Masala Chai",
+        "price": 50,
+        "_id": "5f9e3b3e8b1d6c001b8c7e73"
+      },
+      {
+        "name": "Samosa",
+        "price": 30,
+        "_id": "5f9e3b3e8b1d6c001b8c7e74"
+      },
+      {
+        "name": "Pakora",
+        "price": 40,
+        "_id": "5f9e3b3e8b1d6c001b8c7e75"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User62",
+    "restaurantName": "Smoothie Spot",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 20,
+    "estimatedDeliveryTime": 15,
+    "cuisines": ["Healthy", "Smoothies"],
+    "menuItems": [
+      {
+        "name": "Berry Smoothie",
+        "price": 200,
+        "_id": "5f9e3b3e8b1d6c001b8c7e76"
+      },
+      {
+        "name": "Tropical Smoothie",
+        "price": 220,
+        "_id": "5f9e3b3e8b1d6c001b8c7e77"
+      },
+      {
+        "name": "Green Smoothie",
+        "price": 180,
+        "_id": "5f9e3b3e8b1d6c001b8c7e78"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User63",
+    "restaurantName": "Pancake Palace",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 15,
+    "estimatedDeliveryTime": 10,
+    "cuisines": ["Breakfast", "Desserts"],
+    "menuItems": [
+      {
+        "name": "Classic Pancakes",
+        "price": 150,
+        "_id": "5f9e3b3e8b1d6c001b8c7e79"
+      },
+      {
+        "name": "Chocolate Chip Pancakes",
+        "price": 200,
+        "_id": "5f9e3b3e8b1d6c001b8c7e7a"
+      },
+      {
+        "name": "Fruit Pancakes",
+        "price": 180,
+        "_id": "5f9e3b3e8b1d6c001b8c7e7b"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User64",
+    "restaurantName": "Café Chill",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 10,
+    "estimatedDeliveryTime": 5,
+    "cuisines": ["Cafe", "Snacks"],
+    "menuItems": [
+      {
+        "name": "Coffee",
+        "price": 100,
+        "_id": "5f9e3b3e8b1d6c001b8c7e7c"
+      },
+      {
+        "name": "Sandwich",
+        "price": 80,
+        "_id": "5f9e3b3e8b1d6c001b8c7e7d"
+      },
+      {
+        "name": "Cake",
+        "price": 150,
+        "_id": "5f9e3b3e8b1d6c001b8c7e7e"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User65",
+    "restaurantName": "Pizza Hub",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 30,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Italian", "Pizza"],
+    "menuItems": [
+      {
+        "name": "Margherita Pizza",
+        "price": 350,
+        "_id": "5f9e3b3e8b1d6c001b8c7e7f"
+      },
+      {
+        "name": "Pepperoni Pizza",
+        "price": 400,
+        "_id": "5f9e3b3e8b1d6c001b8c7e80"
+      },
+      {
+        "name": "Veggie Pizza",
+        "price": 300,
+        "_id": "5f9e3b3e8b1d6c001b8c7e81"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User66",
+    "restaurantName": "Salad Station",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 15,
+    "estimatedDeliveryTime": 15,
+    "cuisines": ["Healthy", "Salads"],
+    "menuItems": [
+      {
+        "name": "Caesar Salad",
+        "price": 200,
+        "_id": "5f9e3b3e8b1d6c001b8c7e82"
+      },
+      {
+        "name": "Greek Salad",
+        "price": 220,
+        "_id": "5f9e3b3e8b1d6c001b8c7e83"
+      },
+      {
+        "name": "Fruit Salad",
+        "price": 150,
+        "_id": "5f9e3b3e8b1d6c001b8c7e84"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  },
+  {
+    "user": "User67",
+    "restaurantName": "Dessert Delight",
+    "city": "Ganpat University",
+    "country": "India",
+    "deliveryPrice": 20,
+    "estimatedDeliveryTime": 15,
+    "cuisines": ["Desserts", "Sweet Treats"],
+    "menuItems": [
+      {
+        "name": "Chocolate Cake",
+        "price": 250,
+        "_id": "5f9e3b3e8b1d6c001b8c7e85"
+      },
+      {
+        "name": "Ice Cream Sundae",
+        "price": 200,
+        "_id": "5f9e3b3e8b1d6c001b8c7e86"
+      },
+      {
+        "name": "Fruit Tart",
+        "price": 180,
+        "_id": "5f9e3b3e8b1d6c001b8c7e87"
+      }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-10-05T12:00:00Z"
+  }
+]
